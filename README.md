@@ -1,3 +1,5 @@
 ![render](https://github.com/citizen-science-and-engineering/perma-proto-board/blob/main/img.png)
 
-### perma-proto-board
+### Perma prototype board
+
+Similar to a breadboard but more friendly to I2C and SPI.
